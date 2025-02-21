@@ -1,4 +1,4 @@
-# Multi class text classification
+# Multiclass text classification
 
 Project uses Tensorflow to train multiclass text classification models on a sintetic dataset produced with Google Gemini
 
